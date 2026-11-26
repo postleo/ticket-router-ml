@@ -1,0 +1,14 @@
+{
+  "labels": {
+    "n_classes": 5,
+    "chance_acc": 0.2292,
+    "chance_macro_f1": 0.0746,
+    "cv_macro_f1_mean": 0.9812,
+    "cv_macro_f1_std": 0.0052,
+    "cv_acc_mean": 0.9815,
+    "test_acc": 0.9888,
+    "test_macro_f1": 0.9886,
+    "acc_floor": 0.2292,
+    "lift_over_floor": 0.7596
+  }
+}

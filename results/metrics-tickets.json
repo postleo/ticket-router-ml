@@ -1,0 +1,26 @@
+{
+  "Ticket Type": {
+    "n_classes": 5,
+    "chance_acc": 0.2072,
+    "chance_macro_f1": 0.0687,
+    "cv_macro_f1_mean": 0.1944,
+    "cv_macro_f1_std": 0.0108,
+    "cv_acc_mean": 0.1947,
+    "test_acc": 0.2172,
+    "test_macro_f1": 0.2172,
+    "acc_floor": 0.2072,
+    "lift_over_floor": 0.01
+  },
+  "Ticket Priority": {
+    "n_classes": 4,
+    "chance_acc": 0.2586,
+    "chance_macro_f1": 0.1027,
+    "cv_macro_f1_mean": 0.2497,
+    "cv_macro_f1_std": 0.0104,
+    "cv_acc_mean": 0.2502,
+    "test_acc": 0.245,
+    "test_macro_f1": 0.2448,
+    "acc_floor": 0.2586,
+    "lift_over_floor": -0.0136
+  }
+}
